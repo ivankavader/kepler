@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="KEPLER crypto portfolio manager technology">
+    <meta name="author" content="TAASFUND Pte. LTD">
+
+    <title>KEPLER portfolio manager</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="css/grayscale.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">K E P L E R</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#download">Subscribe</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Developers</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Intro Header -->
+    <header class="masthead">
+      <div class="intro-body">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <h1 class="brand-heading">K E P L E R</h1>
+              <p class="intro-text">Intelligent Portfolio Management Platform
+                <br>Created by TaaS Fund</p>
+              <a href="#about" class="btn btn-circle js-scroll-trigger">
+                <i class="fa fa-angle-double-down animated"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="content-section text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 mx-auto">
+            <h2>About KEPLER</h2>
+            <p>KEPLER is the first cryptocurrency-dedicated platform to cover all the aspects of an investment process. 
+            It is an in-house built intelligence system and portfolio analytics platform that provides clues about the state
+            of cryptocurrency markets relative to Bitcoin cycle phase, allowing an investor to take action with minimum risk involved.</p>
+            <p>Market Research:<br>includes a complete catalogue of news, reports, opinions and market data across blockchain space, individually tailored for every asset. For each cryptocurrency and for each token we perform a highly quantitative audit, measuring the likeness of the network to survive and flourish.</p>
+            <p>Analytics:<br>consists of several kinds of index groups, technical and fundamental indicators, including price performance, hashrate graphs, volatility measurement, strategy testing, et cetera.</p>
+<p>Portfolio Management:<br>Monitoring portfolio is a tedious and exhausting job, but it has never been easier with KEPLER. It understands your current exposure and explains portfolio risks, giving an early warning about wobbly conditions.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Download Section -->
+    <section id="download" class="download-section content-section text-center">
+      <div class="container">
+        <div class="col-lg-8 mx-auto">
+          <h2>Subscribe to KEPLER</h2>
+          <p>Be the first one to get the news about KEPLER development.</p>
+        </div>
+      </div>
+      <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <!-- MailChimp Signup Form -->
+            <div id="mc_embed_signup">
+              <form role="form" ction="//fund.us15.list-manage.com/subscribe/post?u=9610530c82a2b30338f75d207&amp;id=f5f0a68fb7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div class="input-group input-group-lg">
+                  <input type="email" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email address...">
+                  <span class="input-group-btn">
+                    <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default btn-lg">Subscribe!</button>
+                  </span>
+                </div>
+                <div id="mce-responses">
+                  <div class="response" id="mce-error-response" style="display:none"></div>
+                  <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>
+              </form>
+            </div>
+            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+            <!-- End MailChimp Signup Form -->
+          </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="content-section text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 mx-auto">
+            <h2>KEPLER is developing by TaaS Fund Team</h2>
+            <p>Token-as-a-Servise (TaaS) is a tokenized closed-end fund designed to reduce the risks and technical barriers of investing in the blockchain space.</p>
+            <ul class="list-inline banner-social-buttons">
+              <li class="list-inline-item">
+                <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg">
+                  <i class="fa fa-twitter fa-fw"></i>
+                  <span class="network-name">Twitter</span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://github.com/BlackrockDigital/startbootstrap" class="btn btn-default btn-lg">
+                  <i class="fa fa-facebook fa-fw"></i>
+                  <span class="network-name">Facebook</span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg">
+                  <i class="fa fa-medium fa-fw"></i>
+                  <span class="network-name">Medium</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+ 
+    <!-- Footer -->
+    <footer>
+      <div class="container text-center">
+        <p>Copyright &copy; TAASFUND Pte. LTD  2017</p>
+      </div>
+    </footer>
+
+
+
+  </body>
+
+</html>
